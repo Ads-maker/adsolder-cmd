@@ -1,0 +1,2 @@
+# adsolder-cmd
+cmd
